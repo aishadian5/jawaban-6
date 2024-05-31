@@ -1,0 +1,2 @@
+RESTful API yang mengikuti gaya arsitektur REST yang memudahkan komunikasi antara aplikasi dan pengguna (ABDULAH YUSUF 1)
+RESTful API yang mengikuti gaya arsitektur REST yang memudahkan komunikasi antara aplikasi dan pengguna (AISHA DIAN KARTIKA 5)
